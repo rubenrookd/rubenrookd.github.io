@@ -1,0 +1,3 @@
+#+TITLE: Articles & Thoughts
+
+- [[file:01.org][A New Dream]]

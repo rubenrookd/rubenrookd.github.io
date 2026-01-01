@@ -1,6 +1,51 @@
+#+title: Ruben's Site
+#+options: num:nil toc:nil
+
+# --- The Navigation Menu ---
+#+begin_export html
+<nav>
+  <a href="#hello">Home</a> | 
+  <a href="#socials">Socials</a> | 
+  <a href="#endeavors">Endeavors</a> | 
+  <a href="#blogs">Blog</a>
+</nav>
+#+end_export
 
 * Hello!
+:PROPERTIES:
+:CUSTOM_ID: hello
+:END:
 
-This will be filled with content in time
+This will be filled with content in time.
 
 For now enjoy [[https://matias.me/nsfw/][this lovely treat]].
+
+* Socials
+:PROPERTIES:
+:CUSTOM_ID: socials
+:END:
+- [[https://github.com/rubenrookd][GitHub]]
+- (Add your other links here!)
+
+* Current Endeavors
+:PROPERTIES:
+:CUSTOM_ID: endeavors
+:END:
+Here is what I'm currently working on...
+
+* Latest Blogs
+:PROPERTIES:
+:CUSTOM_ID: blogs
+:END:
+Check out my writing here:
+- [[file:blog/archive.org][Visit the Blog Archive]]
+
+# --- The Call to Action (CTA) ---
+#+begin_export html
+<hr>
+<section style="background: var(--accent-bg); padding: 1rem; border-radius: 5px;">
+  <h3>Support My Work</h3>
+  <p>If you enjoy my endeavors, consider buying me a coffee.</p>
+  <a href="https://paypal.me/yourlink">Donate via PayPal</a>
+</section>
+#+end_export

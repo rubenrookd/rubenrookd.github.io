@@ -1,0 +1,4 @@
+#+title: A New Dream
+#+date: <2026-01-01 Thu 18:00>
+
+This is my very first post!
