@@ -4,40 +4,35 @@
 # --- The Navigation Menu ---
 #+begin_export html
 <nav>
-  <a href="#hello">Home</a> | 
   <a href="#socials">Socials</a> | 
   <a href="#endeavors">Endeavors</a> | 
   <a href="#blogs">Blog</a>
 </nav>
 #+end_export
 
-* Hello!
-:PROPERTIES:
-:CUSTOM_ID: hello
-:END:
-
-This will be filled with content in time.
-
-For now enjoy [[https://matias.me/nsfw/][this lovely treat]].
-
 * Socials
 :PROPERTIES:
 :CUSTOM_ID: socials
 :END:
+- [[https://www.youtube.com/@BehindRuben][YouTube]]
+- [[https://x.com/behindruben][Twitter (X)]]
 - [[https://github.com/rubenrookd][GitHub]]
-- (Add your other links here!)
 
 * Current Endeavors
 :PROPERTIES:
 :CUSTOM_ID: endeavors
 :END:
-Here is what I'm currently working on...
+Besides a slew of client work I've done through the years I don't really have much to show.
+
+However I will be starting a new project known as Cooperative Distraction where I will be speaking out as a healthcare and social change advocate. We're in the beginning changes right now and haven't gotten much done from that, but I'm getting the ball rolling.
+
+Read more about it in below.
 
 * Latest Blogs
 :PROPERTIES:
 :CUSTOM_ID: blogs
 :END:
-Check out my writing here:
+I'll be documenting my adventure in starting a movement for change. Check out my writing here:
 - [[file:blog/archive.org][Visit the Blog Archive]]
 
 # --- The Call to Action (CTA) ---
@@ -45,7 +40,7 @@ Check out my writing here:
 <hr>
 <section style="background: var(--accent-bg); padding: 1rem; border-radius: 5px;">
   <h3>Support My Work</h3>
-  <p>If you enjoy my endeavors, consider buying me a coffee.</p>
-  <a href="https://paypal.me/yourlink">Donate via PayPal</a>
+  <p>If you enjoy my endeavors, or want to help the social change movement, please consider supporting!</p>
+  <a href="https://www.paypal.com/ncp/payment/B2NNYT7XL3H7U">Donate via PayPal</a>
 </section>
 #+end_export
