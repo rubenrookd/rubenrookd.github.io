@@ -1,3 +1,4 @@
 #+TITLE: Articles & Thoughts
 
+- [[file:02.org][Building a Foundation: Knowledge Building]]
 - [[file:01.org][A New Dream]]

@@ -1,0 +1,35 @@
+#+title: Building a Foundation: Knowledge Building
+#+date: <2026-01-03 Sat 20:08>
+#+author: Ruben Dominguez
+
+In an effort to build out a foundation of knowledge in pursuit of my goal (essentially becoming a social change advocate), I see two distinct ways of doing so. First is, of course, going out and researching and compiling information from various sources, and second, trying to apply this information in a meaningful way.
+
+Of course the plan was always to use media to convey complex topics through social media posts and other channels, but in between researching and creating such media, I want a sort of buffer that will serve as a learning tool for myself and an educational tool for others.
+
+As such, I have set up [[https:profileprofiles.com][profileprofiles.com]], a wiki that will help me sort out my thoughts and organize information in a detailed fashion and serve as an index of information for how organizations and events triggered by them influence political, legal, economic, and technological systems.
+
+* Profiling Profiles?
+
+I'm quite pleased with myself for securing this domain , actually; it can be construed in quite the clever way.
+
+The way I interface with the idea of profiles (outside of social media profiles) is related to the show [[https://en.wikipedia.org/wiki/Criminal_Minds][Criminal Minds]], a procedural crime drama.
+
+In the show, the FBI agents who are tasked with episode by episode bad guy of the week would, for the most time refer to a sort of character profile to try to predict the bad guy's next moves.
+
+Not far off, I'm sure, from how actual intelligence agencies operate, these profiles were basically aggregated and grouped characteristics about the nature of the crimes committed, how, and when, which would then attempt to generate a silhouette or picture of who the unknown criminal might be.
+
+Basically they would deduce (infer), based on previous crimes committed and who was found guilty, who the criminal was likely to be. Hence the name /Criminal Minds/.
+
+* A Systematic Approach
+
+I'm probably not going to go in such a roundabout way of inducing some big mystery. Banks are banks, states are states, and the intelligence agencies are intelligence agencies. However, I will be trying to get a big-picture view of how things operate and influence each other.
+
+I'm still not quite sure on the structure of things, but I do know one other thing. I want the website to kind of read like a book.
+
+Thanks to the application I'm using, [[https://tiddlywiki.com/\\][TiddlyWiki]], this should be a pleasing process. TiddlyWiki is basically a single page wiki where you can interlink ideas and topics seamlessly and in quite elaborate and organized ways.
+
+Users will hopefully be able to go down a path I have set out for them, or create a unique experience that interests them all, as the wiki is modularly set up so you get to control how you consume the information.
+
+Right now the wiki is just a single page, but I hope to slowly build it out. This will serve as a second layer of quality control before I take the information and make it adaptable for the masses.
+
+Well, that's all for now. Thank you for tuning in!
