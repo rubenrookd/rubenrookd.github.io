@@ -26,7 +26,7 @@ I'm probably not going to go in such a roundabout way of inducing some big myste
 
 I'm still not quite sure on the structure of things, but I do know one other thing. I want the website to kind of read like a book.
 
-Thanks to the application I'm using, [[https://tiddlywiki.com/\\][TiddlyWiki]], this should be a pleasing process. TiddlyWiki is basically a single page wiki where you can interlink ideas and topics seamlessly and in quite elaborate and organized ways.
+Thanks to the application I'm using, [[https://tiddlywiki.com\\][TiddlyWiki]], this should be a pleasing process. TiddlyWiki is basically a single page wiki where you can interlink ideas and topics seamlessly and in quite elaborate and organized ways.
 
 Users will hopefully be able to go down a path I have set out for them, or create a unique experience that interests them all, as the wiki is modularly set up so you get to control how you consume the information.
 
