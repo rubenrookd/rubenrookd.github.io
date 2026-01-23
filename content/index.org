@@ -15,9 +15,10 @@
 :CUSTOM_ID: socials
 :END:
 - [[https://www.youtube.com/@BehindRuben][YouTube]]
+- [[https:rubenrookd.substack.com][Substack]]
 - [[https://x.com/behindruben][Twitter (X)]]
 - [[https://github.com/rubenrookd][GitHub]]
-
+  
 * Current Endeavors
 :PROPERTIES:
 :CUSTOM_ID: endeavors
